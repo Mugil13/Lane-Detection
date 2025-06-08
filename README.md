@@ -39,6 +39,7 @@ Clone the repository:
 git clone https://github.com/Mugil13/Lane-Detection.git
 cd Lane-Detection
 pip install -r requirements.txt
+```
 
 ## Visual Outputs
 
