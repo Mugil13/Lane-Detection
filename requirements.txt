@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Common
+numpy
+matplotlib
+seaborn
+opencv-python
+scikit-image
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# For Colab-based visualization
+tqdm
+scikit-learn
